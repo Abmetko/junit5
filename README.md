@@ -1,6 +1,10 @@
 
 # README #
 
+### What is the project? ###
+
+The main goal is to demonstrate how to run tests in parallel by using plugins, 
+test suite, annotations and junit-platform.properties.xml
 
 ### How to run test suite with maven? ###
 
