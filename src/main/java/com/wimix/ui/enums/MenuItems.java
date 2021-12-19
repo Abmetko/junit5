@@ -9,7 +9,7 @@ public enum MenuItems {
 
     HOME("Home"),
     SERVICE("Service"),
-    CLIENTS("Сlients"),
+    CLIENTS("Clients"),
     ABOUT_WIMIX("about WIMIX"),
     CONTACT_US("Contact us");
 
